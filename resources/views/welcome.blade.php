@@ -81,8 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
-                </div>
+                    This is Laravel 5
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
