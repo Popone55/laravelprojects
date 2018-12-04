@@ -81,12 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-<<<<<<< HEAD
                     This is Laravel 5
-=======
-                    welcome to Laravel
-                </div>
->>>>>>> feature/some-feature
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
